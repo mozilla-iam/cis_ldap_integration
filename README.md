@@ -1,6 +1,9 @@
 # cis_ldap_integration
 Change integration service ldap publisher / subscriber.
 
+![diagram](docs/images/cis_ldap_integration.png)
+
+
 # Roadmap
 
 LDAP Publisher : Planned Q4 2017
